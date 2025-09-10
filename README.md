@@ -203,10 +203,3 @@ This example README and sample contracts can be licensed under MIT. See `LICENSE
 * OpenZeppelin contracts for secure building blocks.
 
 ---
-
-If you want, I can also:
-
-* Generate the full `Zer4chERC721.sol` educational contract file.
-* Generate a full `ZerachNFT.sol` ready-to-deploy contract with Foundry scripts and tests.
-
-Tell me which one you'd like next and I will create the contract file(s) and tests right here.
